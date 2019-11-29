@@ -1,13 +1,15 @@
-Airplane Plus
+## Airplane Plus
+
 
 Install the contents of Release inside the GameData folder. Firespitter is not included in github.
 
-SpaceDock:
+# SpaceDock:
 https://spacedock.info/mod/716/Airplane%20Plus
 
-Curse:
+# Curse:
 https://www.curseforge.com/kerbal/ksp-mods/airplane-plus
 
+-
 
-License:
+# License:
 CC BY-NC-SA 4.0
